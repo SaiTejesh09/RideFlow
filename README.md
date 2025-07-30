@@ -4,6 +4,6 @@ A complete guide on building and deploying an AI-powered voice agent tailored fo
 
 Learn how to:
 - Capture and process voice input  
-- Generate responses via LLM  
-- Rich front-end using React and Tailwind  
-- Deploy to a production environment  
+- Generate responses via LLM
+- Rich front-end using React and Tailwind   
+- Deploy to a production environment
